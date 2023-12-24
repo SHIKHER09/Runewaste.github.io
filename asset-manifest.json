@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SHIKHER09/Runewaste.github.io/static/css/main.cde0269e.css",
+    "main.js": "/SHIKHER09/Runewaste.github.io/static/js/main.b2d007bc.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/SHIKHER09/Runewaste.github.io/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/SHIKHER09/Runewaste.github.io/index.html",
+    "main.cde0269e.css.map": "/SHIKHER09/Runewaste.github.io/static/css/main.cde0269e.css.map",
+    "main.b2d007bc.js.map": "/SHIKHER09/Runewaste.github.io/static/js/main.b2d007bc.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/SHIKHER09/Runewaste.github.io/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde0269e.css",
+    "static/js/main.b2d007bc.js"
+  ]
+}
