@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://runewaste-lqx1.onrender.com",
+  "proxy": "https://runewaste-backend-1.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
