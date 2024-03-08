@@ -178,7 +178,7 @@ const HomePage = () => {
                   <div className="card-name-price">
                     <button
                       className="btn btn-info ms-1"
-                      onClick={() => navigate(`https://runewaste-backend-1.onrender.com/product/${p.slug}`)}
+                      onClick={() => navigate(`/product/${p.slug}`)}
                       style={{ backgroundColor: " #e22454", color: "#ffffff" }}
                     >
                       More Details

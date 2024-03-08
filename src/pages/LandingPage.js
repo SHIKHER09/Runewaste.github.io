@@ -52,7 +52,7 @@ const Loadingpage = () => {
           >
             BUY
           </NavLink>
-          {!auth?.user ? (
+           
             <NavLink
               to="/login"
               className="btn"
@@ -70,25 +70,7 @@ const Loadingpage = () => {
             >
               SELL
             </NavLink>
-          ) : (
-            <NavLink
-              to="/dashboard/admin"
-              className="btn"
-              style={{
-                backgroundColor: "#f64c71",
-                color: "#fff",
-                padding: "12px 30px",
-                borderRadius: "18px",
-                fontSize: "1.2rem",
-                width: "200px",
-                textDecoration: "none",
-                display: "inline-block",
-                marginTop: "20px",
-              }}
-            >
-              SELL
-            </NavLink>
-          )}
+          
         </section>
         {/* features section ends */}
       </div>
