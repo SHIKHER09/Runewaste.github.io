@@ -102,7 +102,7 @@ const Header = () => {
                       <li>
                         <NavLink
                           to={`/dashboard/${
-                            auth?.user?.user
+                            auth?.user
                           }`}
                           className="dropdown-item"
                         >
